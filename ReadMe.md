@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=TU_USER)
+![stats](https://github-readme-stats.vercel.app/api?username=Atom1c-B1rd)
 
 ---
 
