@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Guillermo
+# 👋 Hey, I'm Atom1c-B1rd
 
 💻 Systems & Language Developer  
 🧠 Creating my own programming language (b1rd)  
@@ -29,9 +29,3 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Atom1c-B1rd)
 
----
-
-## 🌐 Contact
-
-- Discord: `Atom1c-B1rd`
-- GitHub: https://github.com/Atom1c-B1rd
