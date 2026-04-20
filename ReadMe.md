@@ -33,6 +33,5 @@
 
 ## 🌐 Contact
 
-- Discord: `tu_user`
-- GitHub: https://github.com/TU_USER
-- LinkedIn: (optional)
+- Discord: `Atom1c-B1rd`
+- GitHub: https://github.com/Atom1c-B1rd
