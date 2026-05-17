@@ -8,10 +8,9 @@
 
 ## 🚀 Projects
 
-- 🐦 b1rd — language transpiling to C
-- ⚛️ atom1c — package manager
-- 🎮 MMO hacker game (Unreal + Haskell backend)
-
+- 🐦 b1rd — Haskell Web FrameWork
+- ⚛️ atom1c — Programming Lang Tag Based 
+- Landings
 ---
 
 ## 🛠️ Tech I Use
