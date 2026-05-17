@@ -19,13 +19,8 @@
 - C / C++
 - Haskell
 - TypeScript
-- Unreal Engine
-- Godot
-- WebSocket networking
-
+- Vue / Nuxt
+- Php / Laravel
+- Go
+- Java
 ---
-
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=Atom1c-B1rd)
-
